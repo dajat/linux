@@ -9,8 +9,6 @@
 The project will describe the different functions of file permissions by using Linux commands. It will showcase which file permissions need to be provided to employees who need the correct access for a fictitious company, known as Cyber Linxz.
  <br /> 
 
-  
-
 <h2>Items Used</h2> 
 
   
@@ -28,7 +26,7 @@ The project will describe the different functions of file permissions by using L
 
 <p> 
 
-cd /home/researcher2/projects: this command will open the directory projects. ls -l: this command will list the permissions in the projects directory. 
+The 'cd' command is used to find a directory in Linux, in this case, it will open the projects directory. The 'ls -l' command is used to list the permissions in a file or directory. 
 
 <h2>Describe the permission string</h2>  
 <p>
