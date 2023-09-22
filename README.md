@@ -6,7 +6,7 @@
 
 <h1>Changing File Permissions in Linux</h1> 
 
-The project will describe the different functions of file permissions by using Linux commands. It will showcase which file permissions need to be provided to employees who need the correct access for a fictitious company, known as Cyber Linxz.
+In this project, we will delve into the intricacies of file permissions, utilizing Linux commands to navigate and comprehend their diverse functions. 
  <br /> 
 
 <h2>Technologies and Environment Used</h2> 
